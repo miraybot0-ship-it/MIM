@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/Jc4vXHl.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> SHANTO -𝗕𝗢𝗧 -SHANTO AHMED 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://i.imgur.com/FR81uSO.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐅𝐀𝐑𝐇𝐀𝐍 -𝗕𝗢𝗧 -𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am SHANTO %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝐒𝐇𝐀𝐍𝐓𝐎 𝐀𝐇𝐌𝐄𝐃
+- ➪ 𝗡𝗔𝗠𝗘      : 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,11 +48,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [SANTO➝😕😈😘🪽](https://www.facebook.com/profile.php?id=61575889146877)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [─꯭─⃝͎̽Dɜ⃨⃔v̷ɪ͢l F⃪̌͢ʌ⃪𝆭͜͡ʀ͢ʜ͢ʌ⃪𝆭͜͡ɳ⃪ ▁▁▁╱╱😈⚔️👿](https://www.facebook.com/devil.rj.farhan)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [01828500740](01828500740)
+- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [devil.rj.farhan](https://wa.me/+8801866673801)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
