@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/FR81uSO.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐅𝐀𝐑𝐇𝐀𝐍 -𝗕𝗢𝗧 -𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://i.imgur.com/Jc4vXHl.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> SHANTO -𝗕𝗢𝗧 -SHANTO AHMED 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I AM FARHAN %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I Am SHANTO %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
@@ -18,12 +18,12 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/FARHAN-XR-BOT/MIM"><img width=550 src="https://github-profile-trophy.vercel.app/?username= 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/BAYJID-404-BOYZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐒𝐇𝐀𝐍𝐓𝐎 𝐀𝐇𝐌𝐄𝐃&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/FARHAN-XR-BOT/count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/BAYJID-404-BOYA /count.svg" alt="Visitors">
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍
+- ➪ 𝗡𝗔𝗠𝗘      : 𝐒𝐇𝐀𝐍𝐓𝐎 𝐀𝐇𝐌𝐄𝐃
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,15 +48,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [─꯭─⃝͎̽Dɜ⃨⃔v̷ɪ͢l F⃪̌͢ʌ⃪𝆭͜͡ʀ͢ʜ͢ʌ⃪𝆭͜͡ɳ⃪ ▁▁▁╱╱😈⚔️👿](https://www.facebook.com/devil.rj.farhan)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [SANTO➝😕😈😘🪽](https://www.facebook.com/profile.php?id=61575889146877)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [─⃝͎̽𓆩𝐌𝐑ﮩ٨𝐅𝐀𝐑𝐇𝐀𝐍᭄𓆪___//😈🩵🪽](https://wa.me/+8801866673801)
+- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [01828500740](01828500740)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/FARHAN-XR-BOT/MIM"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://www.facebook.com/devil.rj.farhan"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/devil.rj.farhan?igsh=ODR4c295ZWQ1bDI4"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://github.com/BAYJID-901-SAXX"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://fb.com/61557409693409"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/mr_bayjid120"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
