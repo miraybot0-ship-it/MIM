@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "sendfile",
 	version: "1.0.0",
 	permission: 0,
-	credits: "nayan",
+	credits: "Farhan",
 	description: "...",
   prefix: true,
 	category: "with prefix",
