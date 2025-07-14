@@ -6,7 +6,7 @@ module.exports.config = {
   name: "zombie",
   version: "1.0.0",
   permission: 0,
-  credits: "Nayan",
+  credits: "Farhan",
   description: "Apply zombie effect to image",
   prefix: true,
   category: "image",
