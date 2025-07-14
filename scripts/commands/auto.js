@@ -4,7 +4,7 @@ module.exports = {
     version: "0.0.2",
     permission: 0,
     prefix: true,
-    credits: "Nayan",
+    credits: "Farhan",
     description: "auto video download",
     category: "user",
     usages: "",
@@ -30,7 +30,7 @@ const data = await alldown(content);
     fs.writeFileSync(__dirname + "/cache/auto.mp4", Buffer.from(video, "utf-8"))
 
         return api.sendMessage({
-            body: `《TITLE》: ${title}`,
+            body: `《𓆩𝐅𝐀𝐑𝐇𝐀𝐍-𝐈𝐓.𝐒-𝐓𝐈𝐓𝐋𝐄𓆪》: ${title}`,
             attachment: fs.createReadStream(__dirname + "/cache/auto.mp4")
 
         }, event.threadID, event.messageID);
