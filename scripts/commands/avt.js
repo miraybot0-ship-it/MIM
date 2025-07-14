@@ -1,9 +1,9 @@
 module.exports.config = {
-	name: "avt",
+	name: "pp",
   version: "1.0.0",
   permission: 0,
-  credits: "Nayan",
-  description: "Avt pic",
+  credits: "farhan",
+  description: "pp pic",
   prefix: true, 
   category: "user", 
   usages: "",
@@ -20,11 +20,11 @@ const axios = require("axios")
 const threadSetting = (await Threads.getData(String(event.threadID))).data || {};
 const prefix = (threadSetting.hasOwnProperty("PREFIX")) ? threadSetting.PREFIX : global.config.PREFIX;
 const mn = this.config.name
-if (!args[0]) return api.sendMessage(`[🔰] FB-AVATAR [🔰]\n\n[🔰]→ ${prefix}${mn} Box Is Your Group's Get Avt\n\n[🔰]→ ${prefix}${mn} Id [Id To Get] <Get Image By Person Uid>\n\n[🔰]→ ${prefix}${mn} Link [Link To Get] <Get Follow That Person's Link>\n\n[🔰]→ ${prefix}${mn} User <Leave Blank Is Get Avatar Of The User Command>\n\n[🔰]→ ${prefix}${mn} User [@mentions] <Get Avatar Of The Person Tagged>`,event.threadID,event.messageID);
+if (!args[0]) return api.sendMessage(`[🔰]→ FB-AVATAR [🔰]\n\n[①]→ ${prefix}${mn} Box Is Your Group's Get Avt\n\n[②]→ ${prefix}${mn} Id [Id To Get] <Get Image By Person Uid>\n\n[③]→ ${prefix}${mn} Link [Link To Get] <Get Follow That Person's Link>\n\n[④]→ ${prefix}${mn} User <Leave Blank Is Get Avatar Of The User Command>\n\n[⑤]→ ${prefix}${mn} User [@mentions] <Get Avatar Of The Person Tagged>`,event.threadID,event.messageID);
   if (args[0] == "box") {
            if(args[1]){ let threadInfo = await api.getThreadInfo(args[1]);
            let imgg = threadInfo.imageSrc;
-       if(!imgg) api.sendMessage(`[🔰]→ Avata của box ${threadInfo.threadName} đây`,event.threadID,event.messageID);
+       if(!imgg) api.sendMessage(`[②]→ Avata của box ${threadInfo.threadName} đây`,event.threadID,event.messageID);
         else var callback = () => api.sendMessage({body:`[🔰]→ Avata box ${threadInfo.threadName} đây`,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/1.png"), event.messageID); 
       return request(encodeURI(`${threadInfo.imageSrc}`)).pipe(fs.createWriteStream(__dirname+'/cache/1.png')).on('close',() => callback());
              }    
